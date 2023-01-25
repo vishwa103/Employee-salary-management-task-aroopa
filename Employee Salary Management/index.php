@@ -97,6 +97,6 @@ if(isset($_POST['submit'])){
             <button class="btn btn-danger" type="reset" class="text-light" name="cancel">Cancel</button>
         </form>
     </div>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js"></script>
+    
 </body>
 </html>
